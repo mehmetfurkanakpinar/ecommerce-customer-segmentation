@@ -44,5 +44,13 @@ README.md                             # Project documentation
 figures/                              # (Optional) saved charts and visuals  
 requirements.txt                      # Python dependencies  
 
+---
+
+## 📄 Final Report
+
+You can read the full project report [here](./Segmentation_Report.pdf).
+
+---
+
 
 mehmetfurkanakpinar.com
